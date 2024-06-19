@@ -57,7 +57,7 @@ a:hover .fa-whatsapp{
 
 @media screen and (max-width: 640px) {
 	.context {
-	    	top:30vh;
+	    	top:35vh;
 	    
 	}
 	.context h1{
@@ -65,7 +65,7 @@ a:hover .fa-whatsapp{
 	}
 	
 	.context h3{
-		font-size: 10px;
+		font-size: 12px;
 	}
 	
 	.context .social{
